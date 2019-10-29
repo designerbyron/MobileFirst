@@ -1,0 +1,1 @@
+//Script del sitio mobile fist
